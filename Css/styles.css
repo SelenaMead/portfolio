@@ -1,0 +1,74 @@
+body {
+
+  text-align: center;
+  font-family: verdana, serif;
+background-color: #fbf9f6;
+
+}
+h1 {
+  font-size: 2.5rem;
+  margin:50px;
+  margin: 0 auto;
+  line-height: 2;
+
+}
+h2{
+  font-size: 1.2rem;
+  font-weight: normal;
+
+}
+img{
+  height:300px;
+  width: 200px;
+
+}
+form{
+  margin-top:  1000px;
+}
+
+.main {
+  width: 900px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  border-style: solid;
+  border-width: 5px;
+  border-radius: 50px;
+  float: left;
+  margin: 5px 5px;
+}
+
+.hobbies {
+  float: right;
+  width: 350px;
+  border-style: solid;
+  border-width: 5px;
+  border-radius: 50px;
+  margin: 5px 5px;
+
+
+}
+.pet{
+  height:250px;
+  width: 200px;
+}
+#webdeveloper{
+  width: 900px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  border-style: solid;
+  border-width: 5px;
+  border-radius: 50px;
+  float: left;
+  margin: 5px 5px;
+}
+
+.background{
+  width: 900px;
+  border-style: solid;
+  border-width: 5px;
+  float: left;
+  border-radius: 50px;
+
+  margin-right: 600px;
+
+}
