@@ -25,9 +25,29 @@ img{
 form{
   margin-top:  1000px;
 }
+button{
+
+  border-radius: 50px;
+  border-style: solid;
+  float: left;
+
+}
+a:hover{
+  background-color: white;
+}
+nav{
+  background-color: black;
+  height: 25px;
+}
+a:link{
+  text-decoration: none;
+}
+a:visited{
+  text-decoration: none;
+}
 
 .main {
-  width: 900px;
+  width:60%;
   padding-top: 25px;
   padding-bottom: 25px;
   border-style: solid;
@@ -39,7 +59,7 @@ form{
 
 .hobbies {
   float: right;
-  width: 350px;
+  width: 32%;
   border-style: solid;
   border-width: 5px;
   border-radius: 50px;
@@ -52,7 +72,7 @@ form{
   width: 200px;
 }
 #webdeveloper{
-  width: 900px;
+  width: 60%;
   padding-top: 25px;
   padding-bottom: 25px;
   border-style: solid;
@@ -63,7 +83,7 @@ form{
 }
 
 .background{
-  width: 900px;
+  width: 60%;
   border-style: solid;
   border-width: 5px;
   float: left;
